@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @golden989
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on coding ideas
 - 📫 How to reach me https://www.linkedin.com/in/awanish-kumar-201661170/
 
